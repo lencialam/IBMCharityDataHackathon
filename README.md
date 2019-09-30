@@ -1,5 +1,6 @@
 # IBMCharityDataHackathon
 Team Name: Steeve and His Friends
+
 Team Members: [@khuangaf](https://github.com/khuangaf) [@lencialam](https://github.com/lencialam) [@xyaoab](https://github.com/xyaoab)
 
 # Recommendation System for China Foundation Center
@@ -29,7 +30,10 @@ Team Members: [@khuangaf](https://github.com/khuangaf) [@lencialam](https://gith
 ---
 
 # 中国公益基金会数据骇客松
+
 队名：Steeve和他的朋友们
+
+队员：[@khuangaf](https://github.com/khuangaf) [@lencialam](https://github.com/lencialam) [@xyaoab](https://github.com/xyaoab)
 
 # 基金会中心网推荐系统
 
